@@ -1,6 +1,6 @@
 # 🦟 Mosquito Species Detection Web App
 
-AI-powered web application for detecting and classifying mosquito species using ensemble deep learning models.
+Web application for detecting and classifying mosquito species using ensemble deep learning models.
 
 ## Features
 
